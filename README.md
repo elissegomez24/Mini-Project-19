@@ -1,2 +1,2 @@
-# iContact-Cards-Mini-Project-19
-Module-19-PWA
+# Mini-Project-19
+iContact-Cards-Module-19-PWA
